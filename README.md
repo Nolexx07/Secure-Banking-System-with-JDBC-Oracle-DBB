@@ -39,8 +39,6 @@ Here’s your upgraded version with **badges + icons + architecture diagram** �
 
 * 🔒 **Encapsulation** → Secure data using private fields
 * 🧱 **Abstraction** → Clean method-level design
-* 🧬 **Inheritance** → Extendable user roles
-* 🔁 **Polymorphism** → Flexible transaction logic
 
 ---
 
